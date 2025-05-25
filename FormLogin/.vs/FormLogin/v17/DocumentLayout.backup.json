@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\u7EC3\u4E60\\FormLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formregisterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregisterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formregisterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregisterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formregisterselect.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregisterselect.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formregisterteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregisterteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formregistersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregistersocial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|E:\\c#\u7EC3\u4E60\\FormLogin\\formlogin\\formregisterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formregisterstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formteacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formstudentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formadmindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\formstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\formstudentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|e:\\c#\u7EC3\u4E60\\formlogin\\formlogin\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D579871-2361-4175-88D7-D2267DCEA7F6}|FormLogin\\FormLogin.csproj|solutionrelative:formlogin\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegisterSelect.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterSelect.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.cs",
+              "RelativeToolTip": "FormLogin\\FormRegisterSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:06:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegisterSelect.Designer.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterSelect.Designer.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.Designer.cs",
+              "RelativeToolTip": "FormLogin\\FormRegisterSelect.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:05:44.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormRegisterSocial.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSocial.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterSocial.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSocial.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormRegisterSocial.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:03:42.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRegisterTeacher.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterTeacher.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterTeacher.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterTeacher.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormRegisterTeacher.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:02:58.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRegisterStudent.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterStudent.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterStudent.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterStudent.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormRegisterStudent.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:02:17.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegisterSelect.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormRegisterSelect.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormRegisterSelect.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormRegisterSelect.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:45:29.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTeacherDashboard.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormTeacherDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormTeacherDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormTeacherDashboard.cs",
+              "RelativeToolTip": "FormLogin\\FormTeacherDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:42:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormStudentDashboard.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormStudentDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.cs",
+              "RelativeToolTip": "FormLogin\\FormStudentDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:41:57.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAdminDashboard.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormAdminDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormAdminDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormAdminDashboard.cs",
+              "RelativeToolTip": "FormLogin\\FormAdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:39:54.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormStudentDashboard.Designer.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormStudentDashboard.Designer.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.Designer.cs",
+              "RelativeToolTip": "FormLogin\\FormStudentDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:35:01.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Program.cs",
+              "RelativeDocumentMoniker": "FormLogin\\Program.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Program.cs",
+              "RelativeToolTip": "FormLogin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:34:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdminDashboard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormAdminDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormAdminDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormAdminDashboard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormAdminDashboard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:55:23.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormTeacherDashboard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormTeacherDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormTeacherDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormTeacherDashboard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormTeacherDashboard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:54:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormStudentDashboard.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.cs",
+              "RelativeDocumentMoniker": "FormLogin\\FormStudentDashboard.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\FormStudentDashboard.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\FormStudentDashboard.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:53:57.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\DbHelper.cs",
+              "RelativeDocumentMoniker": "FormLogin\\DbHelper.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\DbHelper.cs",
+              "RelativeToolTip": "FormLogin\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:51:15.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "FormLogin\\Form1.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Form1.cs",
+              "RelativeToolTip": "FormLogin\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:37:43.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Form1.cs",
+              "RelativeDocumentMoniker": "FormLogin\\Form1.cs",
+              "ToolTip": "E:\\c#\u7EC3\u4E60\\FormLogin\\FormLogin\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "FormLogin\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:25:53.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

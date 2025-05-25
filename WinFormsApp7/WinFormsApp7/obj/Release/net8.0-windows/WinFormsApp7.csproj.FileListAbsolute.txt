@@ -1,0 +1,17 @@
+E:\c#练习\WinFormsApp7\WinFormsApp7\bin\Release\net8.0-windows\WinFormsApp7.exe
+E:\c#练习\WinFormsApp7\WinFormsApp7\bin\Release\net8.0-windows\WinFormsApp7.deps.json
+E:\c#练习\WinFormsApp7\WinFormsApp7\bin\Release\net8.0-windows\WinFormsApp7.runtimeconfig.json
+E:\c#练习\WinFormsApp7\WinFormsApp7\bin\Release\net8.0-windows\WinFormsApp7.dll
+E:\c#练习\WinFormsApp7\WinFormsApp7\bin\Release\net8.0-windows\WinFormsApp7.pdb
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.AnswerForm.resources
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.Form1.resources
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.AssemblyInfo.cs
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.dll
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\refint\WinFormsApp7.dll
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.pdb
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\WinFormsApp7.genruntimeconfig.cache
+E:\c#练习\WinFormsApp7\WinFormsApp7\obj\Release\net8.0-windows\ref\WinFormsApp7.dll
